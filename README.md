@@ -6,7 +6,7 @@
 I want to present you a CoronaAntivirus on Python!
 
 ```
-You need python **3+**
+You need python 3+
 To run this you need to run 
 py antivirus.py
 ```
